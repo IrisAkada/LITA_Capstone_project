@@ -1,6 +1,6 @@
   # LITA_Capstone_project
 
-### Project Title : SalesData Analysis
+### Project Title : SalesData Analysis And CustomerData Analysis
  
 ### OUTLINE:
 
@@ -31,7 +31,7 @@ By Analyzing the various parameters in the data received we seek to gather enoug
 
 
 ### Data Sources 
-The Source of the data used here is SalesData Sales.xlsx provided by The Incubator Hub for our capstone project. 
+The Source of the data used here is LITA_Capstone_Dataset xlsx provided by The Incubator Hub/ LADIES IN TECH AFRICA for our capstone project. 
 
 
 ### Tools Used
@@ -70,6 +70,8 @@ order by TotalRevenue desc
 
 ### Data Visualization
 
+SalesData Overview
+
 
 ![SalesData 1](https://github.com/user-attachments/assets/1a823f47-ad22-4093-86d5-899ddddc46a8)
 
@@ -80,3 +82,11 @@ order by TotalRevenue desc
 ![SalesData 3](https://github.com/user-attachments/assets/e62773c5-cace-4dc6-8848-a18911592096)
 
 
+CustomerData Overview
+
+
+![CustomerData 1](https://github.com/user-attachments/assets/79513122-8d5e-4079-af14-a48d8496c32b)
+
+
+
+![CustomerData 2](https://github.com/user-attachments/assets/5c604e02-84e0-4373-8dc2-c566da07cad5)
