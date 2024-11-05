@@ -1,6 +1,6 @@
   # LITA_Capstone_project
 
-### Project Title : CustomerData Analysis
+### Project Title : SalesData Analysis
  
 ### OUTLINE:
 
