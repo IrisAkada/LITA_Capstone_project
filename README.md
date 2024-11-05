@@ -54,14 +54,6 @@ In the initial phase of the Data cleaning and preparations, we perform the below
  - What is the top selling Product
  - What is the total Revenue for each product and regional breakdown?
 
-### Data Visualization
-
-
-
-
-
-
-
 
 
 ### Data Analysis
@@ -74,7 +66,7 @@ group by Product
 order by TotalRevenue desc
 ```
 
-
+### Data Visualization
 
 
 
