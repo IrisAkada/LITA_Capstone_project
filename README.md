@@ -1,4 +1,4 @@
-# LITA_Capstone_project
+ # LITA_Capstone_project
 
 ### Project Title : CustomerData Analysis
  
@@ -34,6 +34,7 @@ The Source of the data used here is CustomerData Sales.xlsx provided by The Incu
 
 ### Tools Used
 - Microsoft Excel [Download here](https://www.microsoft.com
+  
  1.For Data Analysis
  2.For Data Visualization
 
