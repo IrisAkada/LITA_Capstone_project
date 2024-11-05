@@ -18,9 +18,9 @@
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
 
-[Data Analysis](#data-analysis)
-
 [Data Visualization](#data-visualization)
+
+[Data Analysis](#data-analysis)
 
 
 ### Project Overview
@@ -54,13 +54,20 @@ In the initial phase of the Data cleaning and preparations, we perform the below
  - What is the top selling Product
  - What is the total Revenue for each product and regional breakdown?
 
- 
+### Data Visualization
+
+
+
+
+
+
+
+
+
 ### Data Analysis
 This is where we displayed some basic lines of sql code or queries and some DAX expressions used during the analysis
 ```select sum(Total_sales) as Totalsales from[dbo].[LITA Capstone Dataset csv]
 where product= 'shirt'```
-
-
 
 
 
