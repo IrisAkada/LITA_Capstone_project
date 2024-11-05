@@ -57,9 +57,12 @@ In the initial phase of the Data cleaning and preparations, we perform the below
  
 ### Data Analysis
 This is where we displayed some basic lines of sql code or queries and some DAX expressions used during the analysis
+```select sum(Total_sales) as Totalsales from[dbo].[LITA Capstone Dataset csv]
+where product= 'shirt'```
 
 
-``` select *from [dbo].[LITA Capstone Dataset csv] ```
+
+
 
 
 
