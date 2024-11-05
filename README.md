@@ -59,10 +59,7 @@ In the initial phase of the Data cleaning and preparations, we perform the below
 This is where we displayed some basic lines of sql code or queries and some DAX expressions used during the analysis
 
 
-```select product, sum(Total_sales) as TotalRevenue from [dbo].[LITA Capstone Dataset csv]
-where product in ('Hat','shoes','Gloves','socks','Jacket','shirt')
-group by Product
-order by TotalRevenue desc
+```select *from [dbo].[LITA Capstone Dataset csv]```
 
 
 
