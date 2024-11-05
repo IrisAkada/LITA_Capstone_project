@@ -71,8 +71,12 @@ order by TotalRevenue desc
 ### Data Visualization
 
 
+![SalesData 1](https://github.com/user-attachments/assets/1a823f47-ad22-4093-86d5-899ddddc46a8)
 
 
+![SalesData 2](https://github.com/user-attachments/assets/2248dba7-41f0-42b7-932b-cb7088c19edd)
 
+
+![SalesData 3](https://github.com/user-attachments/assets/e62773c5-cace-4dc6-8848-a18911592096)
 
 
