@@ -70,7 +70,7 @@ order by TotalRevenue desc
 
 ### Data Visualization
 
-SalesData 1.png
+
 
 
 
