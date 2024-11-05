@@ -62,8 +62,8 @@ This is where we displayed some basic lines of sql code or queries and some DAX 
 ```select product, sum(Total_sales) as TotalRevenue from [dbo].[LITA Capstone Dataset csv]
 where product in ('Hat','shoes','Gloves','socks','Jacket','shirt')
 group by Product
-order by TotalRevenue desc```
+order by TotalRevenue desc
 
 
-### Data Visualization
+
 
