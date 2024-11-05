@@ -1,2 +1,21 @@
 # LITA_Capstone_project
-This is where i documented my data analysis project, my capstone project as a trainee with The Incubator Hub.
+
+### Project Title : CustomerData Analysis
+ 
+### OUTLINE:
+
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+ 
+[Tools Used](#tools-used)
+
+
+[Data Cleaning and Preparations](#data-cleaning-preparation)
+
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+
+[Data Analysis](#data-analysis)
