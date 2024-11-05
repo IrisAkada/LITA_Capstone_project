@@ -26,12 +26,12 @@
 
 
 ### Project Overview
-This Data Analysis Project aims at Providing insight into the sales performance of Customerdata over the past two years.
+This Data Analysis Project aims at Providing insight into the sales performance of Salesdata over the past two years.
 By Analyzing the various parameters in the data received we seek to gather enough insight to make inform decisions which will enable us to tell compelling stories around our data from the insight gotten and the best performance from our project.
 
 
 ### Data Sources 
-The Source of the data used here is CustomerData Sales.xlsx provided by The Incubator Hub for our capstone project. 
+The Source of the data used here is SalesData Sales.xlsx provided by The Incubator Hub for our capstone project. 
 
 
 ### Tools Used
