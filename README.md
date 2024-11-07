@@ -141,10 +141,15 @@ Breakdown of analysis revealed the active subscription types as follows: Basic, 
 11.3% of customers in the north canceled their Standard subscription, 33.33% of customers canceled their premium subscription in the South and 33.33% canceled their Basic subscription in the west.
 
 Chart 2, revealed the total count of subscription by region.
+
  1.North 19,000,00 
+ 
  2.South 38,000,00
+ 
  3.East 19,000,00
+ 
  4.West 56,000,00
+ 
 
 Table 1 and 2 revealed the performance of the regions in year 2023 and 2024 subscriptionstart and subscriptionend.
 Year 2023 subscriptionstart generating sum total89,902,969 and 59,916717 in 2024.
